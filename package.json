@@ -1,0 +1,15 @@
+{
+  "name": "chinese-punctuation-replacer",
+  "displayName": "Chinese Punctuation Replacer(中文符号自动转英文)",
+  "description": "实时将输入的中文标点符号自动替换为英文标点符号",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "activationEvents": [
+    "*"
+  ],
+  "main": "./extension.js",
+  "contributes": {},
+  "categories": ["Other"]
+}
