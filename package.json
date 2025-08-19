@@ -17,4 +17,5 @@
   "main": "./extension.js",
   "contributes": {},
   "categories": ["Other"]
+  "icon": "icon.png"
 }

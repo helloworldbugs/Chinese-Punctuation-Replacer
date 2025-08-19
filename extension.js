@@ -1,6 +1,6 @@
 const vscode = require('vscode');
 
-// 中文标点映射
+// 中英文标点符号映射
 const replacements = {
 	'，':',',
 	'。':'.',
