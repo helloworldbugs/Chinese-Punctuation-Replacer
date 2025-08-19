@@ -16,6 +16,6 @@
   ],
   "main": "./extension.js",
   "contributes": {},
-  "categories": ["Other"]
+  "categories": ["Other"],
   "icon": "icon.png"
 }
